@@ -1,7 +1,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=270&section=header&text=SING HONG&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Frontend%20%C3%97%20Backend%20Developer&descSize=22&descAlignY=63&descColor=a78bfa" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=270&section=header&text=SINGHONG&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Frontend%20%C3%97%20Backend%20Developer&descSize=22&descAlignY=63&descColor=a78bfa" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Building+clean+%26+fast+interfaces+%E2%9C%A8;Designing+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Turning+ideas+into+real+products+%F0%9F%9A%80;Always+learning%2C+always+shipping+%F0%9F%92%9C" alt="typing" />
