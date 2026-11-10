@@ -1,91 +1,99 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Singhongwu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descSize=20&descAlignY=58" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=SINGHONGWU&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Frontend%20%C3%97%20Backend%20Developer&descSize=22&descAlignY=62&descColor=a78bfa" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+love+building+cool+things;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&height=40&lines=Building+clean+%26+fast+interfaces+%E2%9C%A8;Designing+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="typing" />
 </a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=singhongwu-cmyk&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/singhongwu-cmyk?label=Followers&style=flat&logo=github)
-
-</div>
-
----
-
-<!-- ========================= ABOUT ========================= -->
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on **[your project here]**
-- 🌱 I'm currently learning **[technology / skill]**
-- 👯 I'm looking to collaborate on **[open-source / ideas]**
-- 🤔 I'm looking for help with **[topic]**
-- 💬 Ask me about **[your expertise]**
-- 😄 Pronouns: **[he/him · she/her · they/them]**
-- ⚡ Fun fact: **[something interesting about you]**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=singhongwu-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhongwu-cmyk&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
-</div>
-
----
-
-<!-- ========================= SKILLS ========================= -->
-## 🛠️ Skills & Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,go,php&theme=dark" alt="languages" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap&theme=dark" alt="frontend" />
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mysql,postgres,mongodb,redis&theme=dark" alt="backend" />
-</p>
-
-**Tools & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,aws,vercel&theme=dark" alt="tools" />
-</p>
-
-> ✏️ Tip: edit the icon list in each `?i=` parameter to keep only the technologies you actually use. Full icon list: [skillicons.dev](https://skillicons.dev)
-
----
-
-<!-- ========================= FOOTER 1: CONNECT ========================= -->
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/your-username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 
 <br/><br/>
 
-⭐ *If you like my work, consider giving a star to my repositories!* ⭐
+<img src="https://img.shields.io/badge/Open%20to-Work%20%26%20Collab-7c3aed?style=for-the-badge&labelColor=1e1b4b" alt="open" />
+<img src="https://komarev.com/ghpvc/?username=singhongwu-cmyk&label=Views&color=7c3aed&style=for-the-badge&labelColor=1e1b4b" alt="views" />
+<img src="https://img.shields.io/github/followers/singhongwu-cmyk?style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b" alt="followers" />
 
 </div>
 
-<!-- ========================= FOOTER 2: BANNER ========================= -->
+<br/>
+
+<!-- ============================= ABOUT ============================= -->
+## ✨ About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+name:      Singhongwu
+role:      Full-Stack Developer
+focus:     Frontend + Backend
+learning:  [what you're learning now]
+building:  [your current project]
+location:  Cambodia 🇰🇭
+ask_me:    [React · APIs · Databases · ...]
+fun_fact:  [something interesting about you]
+```
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=singhongwu-cmyk&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&count_private=true" width="100%" alt="stats" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================= SKILLS ============================ -->
+## 🧰 Skills
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer banner" />
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,vite,figma&theme=dark&perline=11" alt="frontend" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,mysql,postgres,mongodb,redis,docker,git&theme=dark&perline=12" alt="backend" />
+
+</div>
+
+<br/>
+
+<!-- ====================== GITHUB ACTIVITY ========================== -->
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhongwu-cmyk&theme=midnight-purple&hide_border=true&background=00000000" height="150" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhongwu-cmyk&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="150" alt="languages" />
+
+</div>
+
+<br/>
+
+<!-- ========================= FOOTER 1: CONNECT ===================== -->
+## 💬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://t.me/your-username"><img src="https://img.shields.io/badge/Telegram-6366f1?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+<a href="https://github.com/singhongwu-cmyk"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+
+<br/><br/>
+
+<sub>⭐ If you like what you see, drop a star on my repos!</sub>
+
+</div>
+
+<!-- ========================= FOOTER 2: BANNER ====================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks%20for%20stopping%20by%20%F0%9F%92%9C&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" alt="footer" />
 
 </div>
